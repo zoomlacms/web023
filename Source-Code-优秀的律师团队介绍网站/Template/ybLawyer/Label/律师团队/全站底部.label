@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <LabelID>302</LabelID>
+    <LabelName>全站底部</LabelName>
+    <LabelType>1</LabelType>
+    <LabelCate>律师团队</LabelCate>
+    <LabelDesc />
+    <LabelParam />
+    <LabelTable />
+    <LabelField />
+    <LabelWhere />
+    <LabelOrder />
+    <LabelContent>&lt;!-- footer --&gt;
+&lt;div class="welcome footer agile" id="contact"&gt;
+&lt;div class="container"&gt;
+&lt;div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-grids"&gt;
+&lt;h3&gt;我们的宗旨&lt;/h3&gt;
+&lt;p&gt;专注索赔，0元代理，胜诉后收费，为您争取每一分应得的赔偿。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-grids"&gt;
+&lt;h3&gt;联系我们&lt;/h3&gt;
+&lt;p&gt;江西省南昌市南昌市洪城路788号汇景国际酒店B座15楼&lt;br&gt;
+手机：&lt;a href="tel:13617918287" class="all_phone"&gt;13617918287&lt;/a&gt; / &lt;a href="tel:13767979681" class="all_phone"&gt;13767979681&lt;/a&gt;&lt;br/&gt;
+电话：&lt;a href="tel:0791-86578130" class="all_phone"&gt;0791-86578130&lt;/a&gt;&lt;br/&gt;
+Mail : &lt;a href="mailto:626749768@qq.com"&gt;626749768@qq.com&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="clearfix"&gt;&lt;/div&gt;
+&lt;div class="footer-copy"&gt;
+&lt;p&gt;{$Copyright/}&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!--手机下底部漂浮客服--&gt;
+&lt;div class="navbar navbar-fixed-bottom MYbottom"&gt;
+&lt;div class="container Mytel"&gt;
+&lt;i class="fa fa-phone"&gt;&lt;/i&gt;免费律师咨询:&lt;a href="tel:0791-86578130" hidden&gt;0791-86578130&lt;/a&gt;&lt;a href="tel:13617918287"&gt;13617918287&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!---右侧客服--&gt;
+&lt;div class="kefu"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/Guest" target="_blank"&gt;&lt;span&gt;留言咨询&lt;/span&gt;&lt;i class="fa fa-pencil"&gt;&lt;/i&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li class="kefu_qrcode"&gt;&lt;a href="javascript:;"&gt;&lt;span&gt;&lt;img src='/UploadFiles/QrCode/2016119103599271076.jpg'/&gt;&lt;/span&gt;&lt;i class="fa fa-qrcode"&gt;&lt;/i&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://weibo.com/zoomla" target="_blank"&gt;&lt;span&gt;新浪微博&lt;/span&gt;&lt;i class="fa fa-weibo"&gt;&lt;/i&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</LabelContent>
+    <LabelCount />
+    <LabelAddUser>0</LabelAddUser>
+    <LabelNodeID>0</LabelNodeID>
+    <Modeltypeinfo>计数判断</Modeltypeinfo>
+    <addroot>循环计算</addroot>
+    <setroot>等于</setroot>
+    <Modelvalue />
+    <Valueroot />
+    <IsOpen>0</IsOpen>
+    <FalseContent />
+    <DataSourceType />
+    <ConnectString />
+    <ProceName />
+    <ProceParam />
+  </Table>
+</NewDataSet>

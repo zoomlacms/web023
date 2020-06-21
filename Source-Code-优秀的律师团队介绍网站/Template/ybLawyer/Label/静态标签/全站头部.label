@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <LabelID>300</LabelID>
+    <LabelName>全站头部</LabelName>
+    <LabelType>1</LabelType>
+    <LabelCate>静态标签</LabelCate>
+    <LabelDesc />
+    <LabelParam />
+    <LabelTable />
+    <LabelField />
+    <LabelWhere />
+    <LabelOrder />
+    <LabelContent>&lt;div class="home_a"&gt;&lt;/div&gt;
+&lt;div class="banner-info"&gt;
+&lt;div class="banner-top"&gt;
+&lt;div class="container"&gt;
+&lt;div class="col-md-6 banner-top-left"&gt;
+&lt;h4&gt;江西专业索赔团队&lt;/h4&gt;
+&lt;a href="/" class="navbar-brand"&gt;&lt;img src="{$CssDir/}images/logo.svg" alt="{$SiteTitle/}" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="col-md-6 banner-top-right"&gt;
+&lt;a href="tel:0791-86578130"&gt;&lt;i class="fa fa-phone"&gt;&lt;/i&gt; 0791-86578130 &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="clearfix"&gt; &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="banner-bottom"&gt;
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- //banner --&gt;
+&lt;nav class="navbar navbar-default home_nav"&gt;
+&lt;div class="container"&gt;
+&lt;!-- Brand and toggle get grouped for better mobile display --&gt;
+&lt;div class="navbar-header"&gt;
+&lt;button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"&gt;
+&lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+&lt;span class="icon-bar"&gt;&lt;/span&gt;
+&lt;span class="icon-bar"&gt;&lt;/span&gt;
+&lt;span class="icon-bar"&gt;&lt;/span&gt;
+&lt;/button&gt;
+&lt;h4 class="visible-xs"&gt;江西专业索赔团队&lt;/h4&gt;
+&lt;a class="navbar-brand home_logo visible-xs" href="/"&gt;&lt;img src="{$CssDir/}images/logo.svg" alt="{$SiteTitle/}" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;!-- Collect the nav links, forms, and other content for toggling --&gt;
+&lt;div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"&gt;
+&lt;ul class="nav navbar-nav"&gt;
+&lt;li&gt;&lt;a href="/#home"&gt;首页&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/#about"&gt;律所简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/#services"&gt;关于团队&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/#work"&gt;成功案例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/#gallery"&gt;团队服务&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/#contact"&gt;联系我们&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;!-- /.navbar-collapse --&gt;
+&lt;/div&gt;&lt;!-- /.container-fluid --&gt;
+&lt;/nav&gt;
+&lt;!--//导航结束--&gt;</LabelContent>
+    <LabelCount />
+    <LabelAddUser>0</LabelAddUser>
+    <LabelNodeID>0</LabelNodeID>
+    <Modeltypeinfo>计数判断</Modeltypeinfo>
+    <addroot>循环计算</addroot>
+    <setroot>等于</setroot>
+    <Modelvalue />
+    <Valueroot />
+    <IsOpen>0</IsOpen>
+    <FalseContent />
+    <DataSourceType />
+    <ConnectString />
+    <ProceName />
+    <ProceParam />
+  </Table>
+</NewDataSet>

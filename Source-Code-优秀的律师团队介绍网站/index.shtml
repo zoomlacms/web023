@@ -1,0 +1,366 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="msapplication-TileColor" content="#1A0066"/>
+<meta name="msapplication-TileImage" content="/images/win8_symbol_140x140.png"/>
+<title>江西专业索赔律师团队_首页</title>
+<meta name="Keywords" content="争议解决、公司及与公司治理、证券与资本市场、私募股权与投资基金、国企改制与产权交易、银行与金融、反垄断与国家安全审查、税务、国际贸易、国际贸易救济与WTO业务、海商海事、知识产权、刑事辩护、劳动法、公益法律服务">
+<meta name="Description" content="专注索赔，0元代理，胜诉后收费，为您争取每一分应得的赔偿。">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="renderer" content="webkit">
+<link href="/dist/css/bootstrap.min.css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/JS/jquery-1.11.1.min.js" ></script>
+<script src="/dist/js/bootstrap.min.js"></script>
+<link href="/dist/css/font-awesome.min.css" rel="stylesheet"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
+<link href="/Template/ybLawyer/style/global.css?Version=20150909" rel="stylesheet"/>
+<script src="/js/scrolltopcontrol.js"></script>
+</head>
+<body>
+<div id="home">
+<div class="home_a"></div>
+<div class="banner-info">
+<div class="banner-top">
+<div class="container">
+<div class="col-md-6 banner-top-left">
+<h4>江西专业索赔团队</h4>
+<a href="/" class="navbar-brand"><img src="/Template/ybLawyer/style/images/logo.svg" alt="江西专业索赔律师团队" /></a>
+</div>
+<div class="col-md-6 banner-top-right">
+<a href="tel:13617918287"><i class="fa fa-phone"></i> 13617918287 </a>
+</div>
+<div class="clearfix"> </div>
+</div>
+</div>
+<div class="banner-bottom">
+<h1><a href="#">专注索赔，0元代理，胜诉后收费</a></h1>
+<p>为您争取每一分应得的赔偿 </p>
+</div>
+</div>
+<!-- //banner -->
+<nav class="navbar navbar-default home_nav">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<h4 class="visible-xs">江西专业索赔团队</h4>
+<a class="navbar-brand home_logo visible-xs" href="/"><img src="/Template/ybLawyer/style/images/logo.svg" alt="江西专业索赔律师团队" /></a>
+</div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav">
+<li><a href="#home">首页</a></li>
+<li><a href="#about">律所简介</a></li>
+<li><a href="#services">关于团队</a></li>
+<li><a href="#work">成功案例</a></li>
+<li><a href="#gallery">团队服务</a></li>
+<li><a href="#contact">联系我们</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container-fluid -->
+</nav>
+<!--//导航结束-->
+</div>
+
+<div class="home_welcome" id="about">
+<div class="container">
+<h2 class="title">江西专业索赔律师团队</h2>
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 welcome-left">
+<img src="/Template/ybLawyer/style/images/home_award.jpg" alt="律所简介" style="height:auto;" />
+</div>
+<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 welcome-right">
+<h4 style="margin-top:0;"><span>01</span>律所简介</h4>
+<p>江西朗秋律师事务所创建于1993年3月，是全省第一家合作制律师事务所，2008年改制为合伙律师事务所。本所现有合伙人十一名，执业律师四十余名，人大代表两名，政协委员一名。二十多年来，本所多次被省、市司法行政机关评为“优秀律师事务所”、“先进集体”，并荣立集体二等功一次、集体三等功三次；被授予2009年度全市实施法律援助民生工程先进集体、2008-2010年度诚信律师事务所、2011年度全市实施法律援助民生工程先进集体。多名律师被授予省、市“十佳律师”、“优秀律师”的光荣称号，并荣立个人三等功，六名律师被授予“南昌市法律援助爱心大使”，一名律师被授予“全国优秀律师”、“全国法律援助先进个人”。本所党支部多次被评为省、市司法行政系统“先进党支部”，被誉为“南昌市法律服务战线的一面旗帜”。</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 welcome-bottom-right">
+<h4><span>02</span>聂骁律师</h4>
+<p>聂骁，男，毕业于上海政法学院，法学学士。现为江西朗秋律师事务所专职律师，新法制报公益律师，南昌市法律服务中心服务律师。同时担任南昌市西湖区地方税务局、南昌市经济技术开发区地方税务局江西鸿顺德房地产开发有限公司、江西鸿顺德物业管理有限公司等多家企业及政府机关的法律顾问。聂骁律师自执业以来，累积了丰富的民商事诉讼纠纷工作经验和扎实的法学理论基础，始终坚持以认真负责和审慎严谨的工作态度，最大限度地完成每位当事人的嘱托，力求做到为每位当事人争取最大权益。
+</p>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 welcome-bottom-left">
+<img src="/Template/ybLawyer/style/images/home_img5.jpg" alt="" />
+</div>
+</div>
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 welcome-bottom-left">
+<div class="welcome-grid-left">
+<img src="/Template/ybLawyer/style/images/home_img3.jpg" alt="" />
+</div>
+</div>
+<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 welcome-bottom-right">
+<div class="welcome-grid-right">
+<h4><span>03</span>余彬律师</h4>
+<p>余彬，男，现为江西省朗秋律师事务所专职律师，新法制报公益律师，南昌电视台特邀点评律师，2016年南昌诉辩大赛优秀辩手，南昌市法律服务中心服务律师。余彬律师法学理论知识扎实，坚持以事实为根据，以法律为准绳，恪尽职守，兢兢业业，专注于工伤索赔，一般人身损害索赔，交通事故索赔，劳动纠纷索赔等一系列索赔法律事务，力求做到尽力让每个当事人得到最大利益的赔偿</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- services -->
+<div class="home_welcome wthree-services" id="services">
+<div class="container">
+<h3 class="title" style="margin-top:0;">关于团队</h3>
+<div class="row">
+<div class="services-info w3-agile">
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 services-grids">
+<div class="ser-info">
+<div class="icon-holder">
+<i class="fa fa-suitcase"></i>
+</div> 
+<h4 class="heading">快速</h4> 
+<p class="text">我们将在第一时间介入，积极全面了解事故情况，以我们专业的法律技能结合事故的实际情况，为您提供最优最合理的解决方案以及法律帮助，确保尽早收集相关证据，从根源上确保您索赔成功</p>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 services-grids">
+<div class="ser-info">
+<div class="icon-holder">
+<i class="fa fa-check-square-o"></i>
+</div> 
+<h4 class="heading">放心</h4>
+<p class="text">很多受害者在事故发生后，本来就要承担一笔巨额的医疗费用，对一笔不小的律师费已是无力承担。朗秋索赔团队为您提供0元代理，胜诉后收费的服务模式，尽可能的减轻受害者、索赔者的经济负担</p>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 services-grids">
+<div class="ser-info">
+<div class="icon-holder">
+<i class="fa fa-globe"></i>
+</div>
+<h4 class="heading">专业</h4>
+<p class="text">朗秋索赔团队专注于各类索赔法律事务，熟悉各类索赔事务的法律法规（包括江西省各地级市的地方规定），以求规范化，精细化的处理索赔案件，确保您的每一分赔偿</p>
+</div>
+</div>
+<div class="clearfix"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="">
+<div class="container home_server">
+<h3 class="title">团队服务</h3>
+<div class="home_server_c">
+<ul>
+
+<li>
+<h3>
+<a href="/Item/10.aspx" title="合同违约索赔"en>合同违约索赔</a></h3>
+</li>
+
+<li>
+<h3>
+<a href="/Item/9.aspx" title="医疗事故索赔"en>医疗事故索赔</a></h3>
+</li>
+
+<li>
+<h3>
+<a href="/Item/8.aspx" title="劳动纠纷索赔"en>劳动纠纷索赔</a></h3>
+</li>
+
+<li>
+<h3>
+<a href="/Item/7.aspx" title="人身损害索赔"en>人身损害索赔</a></h3>
+</li>
+
+<li>
+<h3>
+<a href="/Item/6.aspx" title="交通事故索赔"en>交通事故索赔</a></h3>
+</li>
+
+<li>
+<h3>
+<a href="/Item/5.aspx" title="工伤事故索赔"en>工伤事故索赔</a></h3>
+</li>
+
+</ul>
+</div>
+</div>
+
+<!-- 团队服务 -->
+
+<!-- slid -->
+<div class="slid-w3-agile">
+<div class="container">
+<h5>我们提供您最优质的服务</h5>
+<h3>受君之托，忠君之事<br> 专注索赔，更加专业 </h3>
+<p class="agileits">坚持诉前介入，案前以专业的法律功底并结合当事人的实际情况，为当事人积极设计最优索赔方案，为了减少索赔者的索赔负担，开创全新的0元代理，胜诉后收费的索赔模式优质的法律服务赢得当事人的尊重与信任。</p>
+</div>
+</div>
+
+<!-- 成功案例 -->
+<div class="home_welcome home_news" id="work">
+<div class="container">
+<div class="work-info">
+<h4 style="text-align:center;">成功案例</h4>
+<div class="row">
+
+<div class="col-md-3 work-grids agileits-w3layouts">
+<a href="/Item/18.aspx" title="在意外事故发生后，我该怎么办？"><img src="" alt="在意外事故发生后，我该怎么办？" /></a>
+<div class="img-caption">
+<div class="img-text">
+<h4>在意外事故发生后，我该怎么办？</h4>
+<p> </p>
+</div>
+</div>
+</div>
+
+<div class="col-md-3 work-grids agileits-w3layouts">
+<a href="/Item/17.aspx" title="律师介入为当事人第一时间取得工伤赔偿"><img src="/UploadFiles/Image/20170103/6361906010926193376896855.jpg" alt="律师介入为当事人第一时间取得工伤赔偿" /></a>
+<div class="img-caption">
+<div class="img-text">
+<h4>律师介入为当事人第一时间取得工伤赔偿</h4>
+<p>成功为当事人争取到了工伤赔偿，经过律师索赔，双方达成和解 </p>
+</div>
+</div>
+</div>
+
+<div class="col-md-3 work-grids agileits-w3layouts">
+<a href="/Item/16.aspx" title="汤一帆诉被告闵德强、高根华民间借贷纠纷"><img src="" alt="汤一帆诉被告闵德强、高根华民间借贷纠纷" /></a>
+<div class="img-caption">
+<div class="img-text">
+<h4>汤一帆诉被告闵德强、高根华民间借贷纠纷</h4>
+<p>成功为当事人讨回债务 </p>
+</div>
+</div>
+</div>
+
+<div class="col-md-3 work-grids agileits-w3layouts">
+<a href="/Item/15.aspx" title="胡声根与江西省国利建设工伤纠纷"><img src="/UploadFiles/Image/20161219/6361774665624159346888563.png" alt="胡声根与江西省国利建设工伤纠纷" /></a>
+<div class="img-caption">
+<div class="img-text">
+<h4>胡声根与江西省国利建设工伤纠纷</h4>
+<p>成功帮助当事人确认劳动关系，顺利通过劳动部门认定工伤 </p>
+</div>
+</div>
+</div>
+
+<div class="clearfix"></div>
+</div>
+<a href="/Class_2/Default.aspx">更多 >></a>
+</div>
+</div>
+</div>
+
+<!-- footer -->
+<div class="welcome footer agile" id="contact">
+<div class="container">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-grids">
+<h3>我们的宗旨</h3>
+<p>专注索赔，0元代理，胜诉后收费，为您争取每一分应得的赔偿。</p>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-grids">
+<h3>联系我们</h3>
+<p>江西省南昌市南昌市洪城路788号汇景国际酒店B座15楼<br/>
+手机：<a href="tel:13617918287" class="all_phone">13617918287</a> / <a href="tel:13767979681" class="all_phone">13767979681</a><br/>
+电话：<a href="tel:0791-86578130" class="all_phone">0791-86578130</a><br/>
+Mail：<a href="mailto:626749768@qq.com">626749768@qq.com</a>
+</p>
+</div>
+<div class="clearfix"></div>
+<div class="footer-copy">
+<p><script src="/js/mobile.js"></script>
+Copyright &copy; 2016 All Rights Reserved 江西专业索赔律师团队  版权所有 客服热线：13617918287
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?cf333dd6913d06e20dc19c07c7fa8396";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</p>
+</div>
+</div>
+</div>
+
+<!--手机下底部漂浮客服-->
+<div class="navbar navbar-fixed-bottom MYbottom">
+<div class="container Mytel">
+<i class="fa fa-phone"></i>免费律师咨询:<a href="tel:0791-86578130" hidden>0791-86578130</a><a href="tel:13617918287">13617918287</a>
+</div>
+</div>
+
+<!---右侧客服-->
+<div class="kefu">
+<ul>
+<li><a href="/Guest" target="_blank"><span>留言咨询</span><i class="fa fa-pencil"></i></a><div class="clearfix"></div></li>
+<li class="kefu_qrcode"><a href="javascript:;"><span><img src='/UploadFiles//QrCode/2016119103599271076.jpg'/></span><i class="fa fa-qrcode"></i></a><div class="clearfix"></div></li>
+<li><a href="http://weibo.com/zoomla" target="_blank"><span>新浪微博</span><i class="fa fa-weibo"></i></a><div class="clearfix"></div></li>
+</ul>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+//---------------------手机下右侧导航菜单效果
+$(function () {
+    $('button.navbar-toggle').click(function () {
+        $('body').toggleClass('out');
+        $('nav.navbar-fixed-top').toggleClass('out');
+        if ($('body').hasClass('out')) {
+            $(this).focus();
+        }
+        else {
+            $(this).blur();
+        }
+    });
+});
+$(document).click(function (e) {
+    if (!$(e.target).closest('.navbar-collapse, button.navbar-toggle').length && $('body').hasClass('out')) {
+        e.preventDefault();
+        $('button.navbar-toggle').trigger('click');
+    }
+}).keyup(function (e) {
+    if (e.keyCode == 27 && $('body').hasClass('out')) {
+        $('button.navbar-toggle').trigger('click');
+    }
+});
+/*导航固顶*/
+$(window).scroll(function () {
+    var a = $(document).scrollTop();
+    if(a>=600){
+		$(".home_nav").addClass("home_fixed");
+    };
+    if(a<600){
+		$(".home_nav").removeClass("home_fixed");
+    }
+});
+/*导航栏目跳转慢动作*/
+$().ready(function(e) {
+    $(".home_nav li a").click(function(event){		
+		event.preventDefault(); 
+		$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+	});
+});
+$(".all_phone").each(function(index, element) {
+	if(IsPC())
+		$(this).attr("href","javascript:alert('请用手机直接拨打"+$(this).html()+"')");
+});
+//判断是否手机
+function IsPC() {
+    var userAgentInfo = navigator.userAgent;
+    var Agents = ["Android", "iPhone",
+                "SymbianOS", "Windows Phone",
+                "iPad", "iPod"];
+    var flag = true;
+    for (var v = 0; v < Agents.length; v++) {
+        if (userAgentInfo.indexOf(Agents[v]) > 0) {
+            flag = false;
+            break;
+        }
+    }
+    return flag;
+}
+</script>
